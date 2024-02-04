@@ -14,7 +14,7 @@
 
 
 ### Anasayfa
-![anasayfa](https://github.com/emreilhangithub/JoinRecord/blob/main/images/Anasayfa.PNG)
+![anasayfa](https://github.com/emreilhangithub/JoinRecord/blob/main/images/Anasayfa.png)
 ### Personel Listeme Sayfası
 ![liste](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelListele.PNG)
 ### Ekleme Sayfası
