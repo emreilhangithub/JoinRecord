@@ -16,17 +16,17 @@
 ### Anasayfa
 ![anasayfa](https://github.com/emreilhangithub/JoinRecord/blob/main/images/Anasayfa.png)
 ### Personel Listeme Sayfası
-![liste](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelListele.PNG)
+![liste](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelListele.png)
 ### Ekleme Sayfası
-![ekle](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelEkleme.PNG)
+![ekle](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelEkleme.png)
 ### Duzenleme Sayfası
-![duzenle](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelDuzenle.PNG)
+![duzenle](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelDuzenle.png)
 ### Personel Telefon Listeme Sayfası
-![telefonliste](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelTelefonListele.PNG)
+![telefonliste](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelTelefonListele.png)
 ### Personel Mail Listeme Sayfası
-![mailliste](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelMailListele.PNG)
+![mailliste](https://github.com/emreilhangithub/JoinRecord/blob/main/images/PersonelMailListele.png)
 ### Personel Join(Birleştirme Sayfası)
-![join](https://github.com/emreilhangithub/JoinRecord/blob/main/images/JoinTable.PNG)
+![join](https://github.com/emreilhangithub/JoinRecord/blob/main/images/JoinTable.png)
 
 
 ### Kaynaklar ###
